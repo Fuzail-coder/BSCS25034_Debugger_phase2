@@ -1,0 +1,7 @@
+func main
+set x 5
+call double x
+func_end
+func double n
+mul n 2
+func_end
